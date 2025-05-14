@@ -12,7 +12,7 @@ To write a Python program that calculates the **sum of all elements** in a list.
 Developed By: V Mythili
 Reg No: 212223040123
 ```
-items=[153,147,124,102]
+items=[153,147,124,102] 
 print(sum(items))
 ```
 
