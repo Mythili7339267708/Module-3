@@ -1,4 +1,4 @@
-# Ex:2(b) Regex in Python: Filter Words Without the Letter 'e'
+# Ex:3(b) Regex in Python: Filter Words Without the Letter 'e'
 
 ## 🎯 Aim
 To write a Python program that filters out and returns all elements from a list **that do not contain the letter `'e'`**, using **regular expressions (regex)**.
