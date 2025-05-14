@@ -33,7 +33,9 @@ print(a)
 
 ## Output
 
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/4c874672-75aa-4958-9b94-2862ded7a87d)
+
 
 ## Result
 
