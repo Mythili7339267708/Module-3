@@ -19,7 +19,7 @@ Developed By: V Mythili
 Reg NO: 212223040123
 
 ```
-def remove(str): 
+def remove(str):  
   l=len(str) 
   a="" 
   n=int(input()) 
